@@ -18,4 +18,5 @@ My first LibGDX project. Made to understand how game physics works.
 
 That's it. Nothing fancy.
 
+
 Last updated: Mon Feb  9 21:08:21 +05 2026
